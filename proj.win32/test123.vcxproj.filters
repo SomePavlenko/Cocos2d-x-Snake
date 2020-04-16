@@ -24,6 +24,9 @@
     <ClCompile Include="C:\Users\paa10\test123\Classes\MainMenu.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="GameOverScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -36,6 +39,9 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\paa10\test123\Classes\MainMenu.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
